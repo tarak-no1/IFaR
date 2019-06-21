@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+### Webstrom ###
+.idea
+
+### Node ###
+logs
+*.log
+npm-debug.log*
+package-lock.json
+
+### Runtime data ###
+pids
+*.pid
+*.seed
+*.pid.lock
